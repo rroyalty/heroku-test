@@ -1,0 +1,27 @@
+{
+  "name": "starwars-express",
+  "version": "1.0.0",
+  "description": "* Spend a few moments looking over the code sent to you. First, get the server running, then begin to dissect the JavaScript code found at the bottom of `add.html`.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rroyalty/heroku-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rroyalty/heroku-test/issues"
+  },
+  "homepage": "https://github.com/rroyalty/heroku-test#readme"
+}
